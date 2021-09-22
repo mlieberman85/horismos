@@ -1,0 +1,5 @@
+base_key_path: "/tmp/keys"
+key_map:
+  image: "cosign.pub"
+  'sbom.sources': "cosign.sbom.pub"
+port: 8085
